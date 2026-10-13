@@ -60,6 +60,7 @@ namespace NAK.SimpleAAS
             AssetDatabase.Refresh();
         }
 
+        /*
         [InitializeOnLoad]
         public class CompileControllersOnBuild
         {
@@ -84,6 +85,7 @@ namespace NAK.SimpleAAS
                 CompileControllers(targetAvatar);
             }
         }
+        */
     }
 }
 #endif
